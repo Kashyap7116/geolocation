@@ -1,2 +1,0 @@
-# geolocation
-Damo
